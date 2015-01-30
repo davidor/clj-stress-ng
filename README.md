@@ -2,6 +2,8 @@
 
 A clojure wrapper for [stress-ng](http://kernel.ubuntu.com/~cking/stress-ng/).
 
+[![Clojars Project](http://clojars.org/clj-stress-ng/latest-version.svg)](http://clojars.org/clj-stress-ng)
+
 ## Usage
 
 To use this library, you need to have stress-ng installed in your system.
