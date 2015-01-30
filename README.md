@@ -53,6 +53,8 @@ Get a map with the available stressors and the options that they support:
 (println stress-ng/available-stressors)
 ```
 
+This library has been tested with stress-ng 0.03.11.
+
 ## License
 
 Copyright (C) 2015 David Ortiz (Barcelona Supercomputing Center).
