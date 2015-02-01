@@ -13,7 +13,7 @@ The instructions can be found [here](http://kernel.ubuntu.com/~cking/stress-ng/)
 
 Add the following to your project.clj:
 ```clojure
-[clj-stress-ng "0.1.1"]
+[clj-stress-ng "0.1.2"]
 ```
 
 Use the library:
