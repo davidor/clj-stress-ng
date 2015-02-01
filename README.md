@@ -1,8 +1,10 @@
-# clj-stress-ng [![Travis](https://travis-ci.org/davidor/clj-stress-ng.svg?branch=master)](https://travis-ci.org/davidor/clj-stress-ng)
+# clj-stress-ng
 
 A clojure wrapper for [stress-ng](http://kernel.ubuntu.com/~cking/stress-ng/).
 
 [![Clojars Project](http://clojars.org/clj-stress-ng/latest-version.svg)](http://clojars.org/clj-stress-ng)
+
+[![Travis](https://travis-ci.org/davidor/clj-stress-ng.svg?branch=master)](https://travis-ci.org/davidor/clj-stress-ng)
 
 ## Usage
 
