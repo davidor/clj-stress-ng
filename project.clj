@@ -1,4 +1,4 @@
-(defproject clj-stress-ng "0.1.2"
+(defproject clj-stress-ng "0.1.3"
   :description "Clojure wrapper for stress-ng"
   :url "https://github.com/davidor/clj-stress-ng"
   :license {:name "Apache 2.0"

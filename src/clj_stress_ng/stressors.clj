@@ -1,10 +1,10 @@
 (ns clj-stress-ng.stressors)
 
 (def supported-stressors
-  (into {} (sort
+  (into (sorted-map)
     {:affinity [:ops :rand]
      :aio [:ops :requests]
-     :bseach [:ops :size]
+     :bsearch [:ops :size]
      :cache [:ops :fence :flush]
      :clock [:ops]
      :cpu [:load :ops :method]
@@ -59,5 +59,5 @@
      :vm [:bytes :stride :hang :keep :ops :locked :method :populate]
      :wait [:ops]
      :yield [:ops]
-     :zero [:ops]})))
+     :zero [:ops]}))
 
